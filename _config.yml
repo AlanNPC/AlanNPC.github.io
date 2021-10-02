@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Yifei Xu
+logo: /images/duck_liu.jpg
 description: |
   PhD Student
   396 Engineering VI
@@ -7,4 +8,3 @@ description: |
   University of California, Los Angeles
   Los Angeles, CA 90095
   Email: yxu [at] cs.ucla.edu
-  
