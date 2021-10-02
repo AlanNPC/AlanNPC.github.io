@@ -1,10 +1,4 @@
 theme: jekyll-theme-minimal
 title: Yifei Xu
 logo: /images/duck_liu.jpg
-description:
-  'PhD Student\
-  396 Engineering VI\
-  Computer Science Department\
-  University of California, Los Angeles\
-  Los Angeles, CA 90095\
-  Email: yxu [at] cs.ucla.edu'
+description: "PhD Student\r\n396 Engineering VI\r\nComputer Science Department\r\nUniversity of California, Los Angeles\r\nLos Angeles, CA 90095\r\nEmail: yxu [at] cs.ucla.edu"
