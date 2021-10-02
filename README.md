@@ -11,4 +11,4 @@ I am currently a first-year PhD student at UCLA CS Department. I am a member of 
 
 [2] Hao He, Yulin Xu, Yixiao Ma, **Yifei Xu**, Guangtai Liang, Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. ***IEEE SANER 2021***.
 
-[3] Jizhou Li\*, Zikun Li\*, **Yifei Xu**\* (\*co-first author), Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. WavingSketch: An Unbiasedand Generic Sketch for Finding Top-k Items in Data Streams. ***ACM SIGKDD 2020***.
+[3] Jizhou Li\*, Zikun Li\*, **Yifei Xu**\* (\*co-first author), Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams. ***ACM SIGKDD 2020***.
