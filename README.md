@@ -6,16 +6,25 @@ I am currently a second-year PhD student at UCLA CS Department. I am fortunate t
 
 ## Publications
 
+**SEED: a SIM-based solution to 5G failures**
+Jinghao Zhao, Zhaowei Tan, ***Yifei Xu***, Zhehui Zhang, Songwu Lu
+SIGCOMM 2022
 
-[1] Jinghao Zhao, Zhaowei Tan, **Yifei Xu**, Zhehui Zhang, Songwu Lu. SEED: a SIM-based solution to 5G failures. ***ACM SIGCOMM 2022***.
+**PISketch: finding persistent and infrequent flows**
+Zhuochen Fan, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Wenrui Liu, Tong Yang, Hengrui Wang, ***Yifei Xu***, Steve Uhlig, Yaofeng Tu
+SIGCOMM 2022 Workshop on FFSPIN
 
-[2] Zhuochen Fan, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Wenrui Liu, Tong Yang, Hengrui Wang, **Yifei Xu**, Steve Uhlig, Yaofeng Tu. PISketch: finding persistent and infrequent flows. ***ACM SIGCOMM 2022 Workshop on FFSPIN***.
+**Device-Based LTE Latency Reduction at the Application Layer**
+Zhaowei Tan, Jinghao Zhao, Yuanjie Li, ***Yifei Xu***, Songwu Lu
+NSDI ’21
 
-[3] Zhaowei Tan, Jinghao Zhao, Yuanjie Li, **Yifei Xu**, Songwu Lu. Device-Based LTE Latency Reduction at the Application Layer. ***USENIX NSDI ’21***.
+**A Multi-Metric Ranking Approach for Library Migration Recommendations**
+Hao He, Yulin Xu, Yixiao Ma, ***Yifei Xu***, Guangtai Liang, Minghui Zhou
+IEEE SANER 2021
 
-[4] Hao He, Yulin Xu, Yixiao Ma, **Yifei Xu**, Guangtai Liang, Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. ***IEEE SANER 2021***.
-
-[5] Jizhou Li\*, Zikun Li\*, **Yifei Xu**\* (\*co-first author), Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams. ***ACM SIGKDD 2020***.
+**WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams**
+Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\* (\*co-first author), Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang
+SIGKDD 2020
 
 
 ## Teaching
