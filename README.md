@@ -35,6 +35,5 @@ Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\* (\*co-first author), Shiqi Jiang, Tong
 ## Teaching
 
 
-TA in UCLA CS Dept since 2022, courses include:
-
+TA in UCLA CS Dept since 2022, courses include: <br />
 CS180 Introduction to Algorithms and Complexity
