@@ -6,6 +6,16 @@ I am currently a second-year PhD student at UCLA CS Department. I am fortunate t
 
 ## Publications
 
+**Unbiased Real-time Traffic Sketching** <br />
+Yuhan Wu, Shiqi Jiang, ***Yifei Xu***, Siyuan Dong, Kaicheng Yang, Peiqing Chen, Tong Yang <br />
+*IEEE TKDE*
+
+
+**LDRP: Device-Centric Latency Diagnostic and Reduction for Cellular Networks Without Root** <br />
+Zhaowei Tan, Jinghao Zhao, Yuanjie Li, ***Yifei Xu***, Yunqi Guo, Songwu Lu <br />
+*IEEE TMC*
+
+
 **SEED: a SIM-based solution to 5G failures** <br />
 Jinghao Zhao, Zhaowei Tan, ***Yifei Xu***, Zhehui Zhang, Songwu Lu <br />
 *SIGCOMM 2022*
