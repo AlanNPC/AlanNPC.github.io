@@ -46,5 +46,5 @@ Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\* (\*co-first author), Shiqi Jiang, Tong
 
 
 TA in UCLA CS Dept since 2022, courses include: <br />
-CS180 - Introduction to Algorithms and Complexity <br />
-CS118 - Computer Network Fundamentals
+CS 180 - Introduction to Algorithms and Complexity <br />
+CS 118 - Computer Network Fundamentals
