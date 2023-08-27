@@ -8,7 +8,7 @@ I am currently a second-year PhD student at UCLA CS Department. I am fortunate t
 
 **Unbiased Real-time Traffic Sketching** <br />
 Yuhan Wu, Shiqi Jiang, ***Yifei Xu***, Siyuan Dong, Kaicheng Yang, Peiqing Chen, Tong Yang <br />
-*IEEE TKDE*
+*IEEE TNSE*
 
 
 **LDRP: Device-Centric Latency Diagnostic and Reduction for Cellular Networks Without Root** <br />
