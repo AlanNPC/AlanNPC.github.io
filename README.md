@@ -5,9 +5,10 @@ I am currently a second-year PhD student at UCLA CS Department. I am fortunate t
 
 
 ## Publications
+(\* for equal contribution)
 
 **Unbiased Real-time Traffic Sketching** <br />
-Yuhan Wu, Shiqi Jiang, ***Yifei Xu***, Siyuan Dong, Kaicheng Yang, Peiqing Chen, Tong Yang <br />
+Yuhan Wu\*, Shiqi Jiang\*, ***Yifei Xu***\*, Siyuan Dong, Kaicheng Yang, Peiqing Chen, Tong Yang <br />
 *IEEE TNSE*
 
 
@@ -37,7 +38,7 @@ Hao He, Yulin Xu, Yixiao Ma, ***Yifei Xu***, Guangtai Liang, Minghui Zhou <br />
 
 
 **WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams** <br />
-Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\* (\*co-first author), Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang <br />
+Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang <br />
 *SIGKDD 2020*
 
 
