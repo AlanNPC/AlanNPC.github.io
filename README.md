@@ -5,7 +5,6 @@ I am currently a second-year PhD student at UCLA CS Department. I am fortunate t
 
 
 ## Publications
-(\* equal contribution)
 
 **Unbiased Real-time Traffic Sketching** <br />
 Yuhan Wu\*, Shiqi Jiang\*, ***Yifei Xu***\*, Siyuan Dong, Kaicheng Yang, Peiqing Chen, Tong Yang <br />
@@ -42,6 +41,7 @@ Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafe
 *SIGKDD 2020*
 
 
+\* equal contribution
 
 ## Teaching
 
