@@ -7,7 +7,7 @@ I am currently a third-year PhD student at UCLA CS Department. I am fortunate to
 ## Publications
 
 **CloudEval-YAML: A Realistic and Scalable Benchmark for Cloud Configuration Generation** <br />
-Yifei Xu*, Yuning Chen*, Xumiao Zhang*, Xianshang Lin, Pan Hu, Yunfei Ma, Songwu Lu, Wan Du, Z. Morley Mao, Ennan Zhai, Dennis
+***Yifei Xu***\*, Yuning Chen\*, Xumiao Zhang\*, Xianshang Lin, Pan Hu, Yunfei Ma, Songwu Lu, Wan Du, Z. Morley Mao, Ennan Zhai, Dennis
 Cai <br />
 *NeurIPS 2023 Workshop on ML for Systems (To Appear)*
 
