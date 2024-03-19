@@ -7,8 +7,8 @@ I am currently a third-year PhD student at UCLA CS Department. I am fortunate to
 ## Publications
 
 
-#### Conference Papers
-----
+### Conference Papers
+---
 **CloudEval-YAML: A Practical Benchmark for Cloud Configuration Generation** <br />
 ***Yifei Xu***\*, Yuning Chen\*, Xumiao Zhang\*, Xianshang Lin, Pan Hu, Yunfei Ma, Songwu Lu, Wan Du, Z. Morley Mao, Ennan Zhai, Dennis
 Cai <br />
@@ -35,8 +35,8 @@ Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafe
 *SIGKDD 2020*
 
 
-#### Journals
-----
+### Journals
+---
 **Unbiased Real-time Traffic Sketching** <br />
 Yuhan Wu\*, Shiqi Jiang\*, ***Yifei Xu***\*, Siyuan Dong, Kaicheng Yang, Peiqing Chen, Tong Yang <br />
 *IEEE TNSE*
@@ -47,8 +47,8 @@ Zhaowei Tan, Jinghao Zhao, Yuanjie Li, ***Yifei Xu***, Yunqi Guo, Songwu Lu <br 
 *IEEE TMC*
 
 
-#### Workshops, Posters, and Demos
-----
+### Workshops, Posters, and Demos
+---
 **CloudEval-YAML: A Realistic and Scalable Benchmark for Cloud Configuration Generation** <br />
 ***Yifei Xu***\*, Yuning Chen\*, Xumiao Zhang\*, Xianshang Lin, Pan Hu, Yunfei Ma, Songwu Lu, Wan Du, Z. Morley Mao, Ennan Zhai, Dennis
 Cai <br />
