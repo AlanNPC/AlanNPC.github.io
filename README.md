@@ -6,30 +6,19 @@ I am currently a third-year PhD student at UCLA CS Department. I am fortunate to
 
 ## Publications
 
+
+#### Conference Papers
+
+
 **CloudEval-YAML: A Realistic and Scalable Benchmark for Cloud Configuration Generation** <br />
 ***Yifei Xu***\*, Yuning Chen\*, Xumiao Zhang\*, Xianshang Lin, Pan Hu, Yunfei Ma, Songwu Lu, Wan Du, Z. Morley Mao, Ennan Zhai, Dennis
 Cai <br />
-*NeurIPS 2023 Workshop on ML for Systems (To Appear)*
-
-
-**Unbiased Real-time Traffic Sketching** <br />
-Yuhan Wu\*, Shiqi Jiang\*, ***Yifei Xu***\*, Siyuan Dong, Kaicheng Yang, Peiqing Chen, Tong Yang <br />
-*IEEE TNSE*
-
-
-**LDRP: Device-Centric Latency Diagnostic and Reduction for Cellular Networks Without Root** <br />
-Zhaowei Tan, Jinghao Zhao, Yuanjie Li, ***Yifei Xu***, Yunqi Guo, Songwu Lu <br />
-*IEEE TMC*
+*MLSys 2024*
 
 
 **SEED: a SIM-based solution to 5G failures** <br />
 Jinghao Zhao, Zhaowei Tan, ***Yifei Xu***, Zhehui Zhang, Songwu Lu <br />
 *SIGCOMM 2022*
-
-
-**PISketch: finding persistent and infrequent flows** <br />
-Zhuochen Fan, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Wenrui Liu, Tong Yang, Hengrui Wang, ***Yifei Xu***, Steve Uhlig, Yaofeng Tu <br />
-*SIGCOMM 2022 Workshop on FFSPIN*
 
 
 **Device-Based LTE Latency Reduction at the Application Layer** <br />
@@ -47,7 +36,35 @@ Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafe
 *SIGKDD 2020*
 
 
+#### Journal
+
+
+**Unbiased Real-time Traffic Sketching** <br />
+Yuhan Wu\*, Shiqi Jiang\*, ***Yifei Xu***\*, Siyuan Dong, Kaicheng Yang, Peiqing Chen, Tong Yang <br />
+*IEEE TNSE*
+
+
+**LDRP: Device-Centric Latency Diagnostic and Reduction for Cellular Networks Without Root** <br />
+Zhaowei Tan, Jinghao Zhao, Yuanjie Li, ***Yifei Xu***, Yunqi Guo, Songwu Lu <br />
+*IEEE TMC*
+
+
+#### Workshops
+
+
+**CloudEval-YAML: A Realistic and Scalable Benchmark for Cloud Configuration Generation** <br />
+***Yifei Xu***\*, Yuning Chen\*, Xumiao Zhang\*, Xianshang Lin, Pan Hu, Yunfei Ma, Songwu Lu, Wan Du, Z. Morley Mao, Ennan Zhai, Dennis
+Cai <br />
+*NeurIPS 2023 Workshop on ML for Systems*
+
+
+**PISketch: finding persistent and infrequent flows** <br />
+Zhuochen Fan, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Wenrui Liu, Tong Yang, Hengrui Wang, ***Yifei Xu***, Steve Uhlig, Yaofeng Tu <br />
+*SIGCOMM 2022 Workshop on FFSPIN*
+
+
 \* co-first author
+
 
 ## Teaching
 
@@ -55,3 +72,5 @@ Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafe
 TA in UCLA CS Dept since 2022, courses include: <br />
 CS 180 - Introduction to Algorithms and Complexity <br />
 CS 118 - Computer Network Fundamentals
+CS 31 - Introduction to Computer Science I
+CS 35L - Software Construction
