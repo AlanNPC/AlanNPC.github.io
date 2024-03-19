@@ -36,7 +36,7 @@ Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafe
 *SIGKDD 2020*
 
 
-### Journal
+### Journals
 
 
 **Unbiased Real-time Traffic Sketching** <br />
