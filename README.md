@@ -7,8 +7,8 @@ I am currently a third-year PhD student at UCLA CS Department. I am fortunate to
 ## Publications
 
 
-### Conference Papers
-
+#### Conference Papers
+---
 
 **CloudEval-YAML: A Practical Benchmark for Cloud Configuration Generation** <br />
 ***Yifei Xu***\*, Yuning Chen\*, Xumiao Zhang\*, Xianshang Lin, Pan Hu, Yunfei Ma, Songwu Lu, Wan Du, Z. Morley Mao, Ennan Zhai, Dennis
@@ -36,8 +36,8 @@ Jizhou Li\*, Zikun Li\*, ***Yifei Xu***\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafe
 *SIGKDD 2020*
 
 
-### Journals
-
+#### Journals
+---
 
 **Unbiased Real-time Traffic Sketching** <br />
 Yuhan Wu\*, Shiqi Jiang\*, ***Yifei Xu***\*, Siyuan Dong, Kaicheng Yang, Peiqing Chen, Tong Yang <br />
@@ -49,8 +49,8 @@ Zhaowei Tan, Jinghao Zhao, Yuanjie Li, ***Yifei Xu***, Yunqi Guo, Songwu Lu <br 
 *IEEE TMC*
 
 
-### Workshops, Posters, and Demos
-
+#### Workshops, Posters, and Demos
+---
 
 **CloudEval-YAML: A Realistic and Scalable Benchmark for Cloud Configuration Generation** <br />
 ***Yifei Xu***\*, Yuning Chen\*, Xumiao Zhang\*, Xianshang Lin, Pan Hu, Yunfei Ma, Songwu Lu, Wan Du, Z. Morley Mao, Ennan Zhai, Dennis
@@ -71,6 +71,6 @@ Zhuochen Fan, Zhoujing Hu, Yuhan Wu, Jiarui Guo, Wenrui Liu, Tong Yang, Hengrui 
 
 TA in UCLA CS Dept since 2022, courses include: <br />
 CS 180 - Introduction to Algorithms and Complexity <br />
-CS 118 - Computer Network Fundamentals
-CS 31 - Introduction to Computer Science I
+CS 118 - Computer Network Fundamentals <br />
+CS 31 - Introduction to Computer Science I <br />
 CS 35L - Software Construction
