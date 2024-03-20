@@ -7,13 +7,13 @@ I am currently a third-year PhD student at UCLA CS Department. I am fortunate to
 ## What's New
 
 
-**[02/2024]** Our work CloudEval-YAML is accepted by MLSys 2024. See you in Santa Clara!
+**[Feb. 2024]** Our work CloudEval-YAML is accepted by MLSys 2024. See you in Santa Clara!
 
 
-**[01/2024]** I will be joining Networking Research Group at Microsoft Research as a Research Intern in Summer 2024. See you in Redmond!
+**[Jan. 2024]** I will be joining Networking Research Group at Microsoft Research as a Research Intern in Summer 2024. See you in Redmond!
 
 
-**[11/2023]** Our preliminary work on CloudEval-YAML is accepted by NeurIPS 2023 Workshop on ML for Systems. Check out the code [here](https://github.com/alibaba/CloudEval-YAML). See you in New Orleans!
+**[Nov. 2023]** Our preliminary work on CloudEval-YAML is accepted by NeurIPS 2023 Workshop on ML for Systems. Check out the code [here](https://github.com/alibaba/CloudEval-YAML). See you in New Orleans!
 
 
 
