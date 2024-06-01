@@ -1,7 +1,7 @@
 ## About me
 
 
-I am currently a third-year PhD student at UCLA CS Department. I am fortunate to work with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the amazing members in the [Wireless and Networking Group (WiNG)](http://metro.cs.ucla.edu). I am excited to explore future mobile networks & applications, including IoT, AR/VR, security and more. Prior to UCLA, I received my B.S. in Computer Science from Peking University. During my undergrad, I also did interesting research over sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
+I am currently a third-year PhD student at UCLA CS Department. I am fortunate to work with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the amazing members in the [Wireless and Networking Group (WiNG)](http://metro.cs.ucla.edu). I am excited to explore machine learning and systems (Sys for ML + ML for Sys), cloud computing and edge computing. Prior to UCLA, I received my B.S. in Computer Science from Peking University. During my undergrad, I also did interesting research over sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
 
 
 ## What's New
