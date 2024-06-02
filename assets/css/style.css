@@ -1,3 +1,5 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+
 body {
     background-color: #fff;
     padding:50px;
@@ -174,7 +176,7 @@ body {
   }
   
   section {
-    width:750px;
+    width:600px;
     float:right;
     padding-bottom:50px;
   }
