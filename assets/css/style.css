@@ -33,6 +33,10 @@ body {
     color:#494949;
     font-weight: 500;
   }
+
+  h3 {
+    margin: 0 0 0;
+  }
   
   a {
     color:#39c;
@@ -183,7 +187,7 @@ body {
     border:0;
     background:#e5e5e5;
     height:1px;
-    margin:0 0 10px;
+    margin:0 0 20px;
   }
   
   footer {
