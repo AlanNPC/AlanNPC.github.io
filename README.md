@@ -7,14 +7,23 @@ I am currently a fourth-year PhD student at UCLA CS Department. I am fortunate t
 ## What's New
 
 
-**[Feb. 2024]** Our work CloudEval-YAML is accepted by MLSys 2024. See you in Santa Clara!
+**[Feb. 2025]** Check out our new work *RLTHF* available at [Preprint](https://arxiv.org/abs/2502.13417)!
+
+**[Feb. 2024]** Our work *CloudEval-YAML* is accepted by MLSys 2024. See you in Santa Clara!
 
 **[Jan. 2024]** I will be joining Networking Research Group at Microsoft Research as a Research Intern in Summer 2024. See you in Redmond!
 
-**[Nov. 2023]** Our preliminary work on CloudEval-YAML is accepted by NeurIPS 2023 Workshop on ML for Systems. Check out the code [here](https://github.com/alibaba/CloudEval-YAML). See you in New Orleans!
+**[Nov. 2023]** Our preliminary work on *CloudEval-YAML* is accepted by NeurIPS 2023 Workshop on ML for Systems. Check out the code [here](https://github.com/alibaba/CloudEval-YAML). See you in New Orleans!
 
 
 ## Publications
+
+
+### Preprints
+---
+**RLTHF: Targeted Human Feedback for LLM Alignment** <br />
+***Yifei Xu***, Tusher Chakraborty, Emre Kıcıman, Bibek Aryal, Eduardo Rodrigues, Srinagesh Sharma, Roberto Estevao, Maria Angels de Luis Balaguer, Jessica Wolk, Rafael Padilha, Leonardo Nunes, Shobana Balakrishnan, Songwu Lu, Ranveer Chandra <br />
+*arXiv:2502.13417* [[paper]](https://arxiv.org/abs/2502.13417)
 
 
 ### Conference Papers
