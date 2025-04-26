@@ -1,12 +1,12 @@
 ## About me
 
 
-I am currently a 4th-year PhD student at UCLA CS Department. I am fortunate to work with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the amazing members in the [WiNG](http://metro.cs.ucla.edu). My research aims to enable scalable and automated cloud/edge services and AI applications. I work at the intersection of **machine learning and systems**, covering LLM alignment, automated cloud/edge application deployment, 5G systems, and network algorithms. Prior to UCLA, I received my B.S. in Computer Science from Peking University. During my undergrad, I also did interesting research over sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
+I am currently a 4th-year PhD student at UCLA CS Department. I am fortunate to work with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the amazing members in the [WiNG](http://metro.cs.ucla.edu). My research aims to enable scalable and automated cloud/edge services and AI applications. I work at the intersection of **machine learning and systems**, covering LLM alignment/reasoning, automated cloud/edge application deployment, 5G systems, and network algorithms. Prior to UCLA, I received my B.S. in Computer Science from Peking University. During my undergrad, I also did interesting research over sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
 
 
 ## What's New
 
-**[Apr. 2025]** Our work *MP<sup>2</sup>* is accepted to [ATC '25](https://www.usenix.org/conference/atc25). See you in Boston!
+**[Apr. 2025]** Our work *MP<sup>2</sup>* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25). See you in Boston!
 
 **[Feb. 2025]** Check out our new work *RLTHF* available at [Preprint](https://arxiv.org/abs/2502.13417)!
 
@@ -31,7 +31,7 @@ I am currently a 4th-year PhD student at UCLA CS Department. I am fortunate to w
 ---
 **Roaming Free in the VR World with MP2** <br />
 ***Yifei Xu***, Xumiao Zhang, Yuning Chen, Pan Hu, Xuan Zeng, Zhilong Zheng, Xianshang Lin, Yanmei Liu, Songwu Lu, Z. Morley Mao, Wan Du, Dennis Cai, Ennan Zhai, Yunfei Ma <br />
-*ATC '25* (To Appear)
+*ATC ’25* (To Appear)
 
 
 **CloudEval-YAML: A Practical Benchmark for Cloud Configuration Generation** <br />
