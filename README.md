@@ -6,7 +6,7 @@ I am currently a 4th-year PhD student at UCLA CS Department. I am fortunate to w
 
 ## What's New
 
-**[Apr. 2025]** Our work *MP<sup>2</sup>* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25). See you in Boston!
+**[Apr. 2025]** Our work *MP2* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25). See you in Boston!
 
 **[Feb. 2025]** Check out our new work *RLTHF* available at [Preprint](https://arxiv.org/abs/2502.13417)!
 
