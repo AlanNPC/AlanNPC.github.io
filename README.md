@@ -6,6 +6,8 @@ I am currently a 4th-year PhD student at UCLA CS Department. I am fortunate to w
 
 ## What's New
 
+**[May 2025]** Our work *RLTHF* is accepted to [ICML 2025](https://icml.cc/Conferences/2025). See you in Vancouver!
+
 **[Apr. 2025]** Our work *MP2* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25). See you in Boston!
 
 **[Feb. 2025]** Check out our new work *RLTHF* available at [Preprint](https://arxiv.org/abs/2502.13417)!
@@ -20,15 +22,13 @@ I am currently a 4th-year PhD student at UCLA CS Department. I am fortunate to w
 ## Publications
 
 
-### Preprints
+### Conference Papers
 ---
 **RLTHF: Targeted Human Feedback for LLM Alignment** <br />
 ***Yifei Xu***, Tusher Chakraborty, Emre Kıcıman, Bibek Aryal, Eduardo Rodrigues, Srinagesh Sharma, Roberto Estevao, Maria Angels de Luis Balaguer, Jessica Wolk, Rafael Padilha, Leonardo Nunes, Shobana Balakrishnan, Songwu Lu, Ranveer Chandra <br />
-*arXiv:2502.13417* [[paper]](https://arxiv.org/abs/2502.13417)
+*ICML 2025* (To Appear) [[arXiv]](https://arxiv.org/abs/2502.13417)
 
 
-### Conference Papers
----
 **Roaming Free in the VR World with MP2** <br />
 ***Yifei Xu***, Xumiao Zhang, Yuning Chen, Pan Hu, Xuan Zeng, Zhilong Zheng, Xianshang Lin, Yanmei Liu, Songwu Lu, Z. Morley Mao, Wan Du, Dennis Cai, Ennan Zhai, Yunfei Ma <br />
 *ATC ’25* (To Appear)
