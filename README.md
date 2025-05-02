@@ -1,7 +1,7 @@
 ## About me
 
 
-I am currently a 4th-year PhD student at UCLA CS Department. I am fortunate to work with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the amazing members in the [WiNG](http://metro.cs.ucla.edu). My research aims to enable scalable and automated cloud/edge services and AI applications. I work at the intersection of **machine learning and systems**, covering LLM alignment/reasoning, automated cloud/edge application deployment, 5G systems, and network algorithms. Prior to UCLA, I received my B.S. in Computer Science from Peking University. During my undergrad, I also did interesting research over sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
+I am currently a 4th-year Ph.D. student at the UCLA Computer Science Department. I have the privilege of working with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the members of the [WiNG](http://metro.cs.ucla.edu). My research broadly covers machine learning and systems, with a current focus on LLM alignment/reasoning and ML for systems. I have a background in VR streaming, 5G systems, and data mining algorithms. Prior to UCLA, I received my B.S. in Computer Science from Peking University, where I also conducted research on sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
 
 
 ## What's New
