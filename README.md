@@ -6,7 +6,7 @@ I am currently a 4th-year Ph.D. candidate at the UCLA Computer Science Departmen
 
 ## What's New
 
-**[June 2025]** Check out our new work *DRO* on LLM reasoning for open-ended tasks available at [preprint](https://arxiv.org/abs/2506.13351)!
+**[Jun. 2025]** Check out our new work *DRO* on LLM reasoning for open-ended tasks available at [preprint](https://arxiv.org/abs/2506.13351)!
 
 **[May 2025]** Our work *RLTHF* is accepted to [ICML 2025](https://icml.cc/Conferences/2025). See you in Vancouver!
 
