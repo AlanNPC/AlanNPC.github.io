@@ -6,7 +6,7 @@ I am currently a 4th-year Ph.D. candidate at the UCLA Computer Science Departmen
 
 ## What's New
 
-**[Jul. 2025]** Excited to be back at Microsoft this summer as a Research Intern, continuing our research on RL for LLMs. See you in Redmond!
+**[Jul. 2025]** I am returning to Microsoft as a Research Intern this summer. Excited to continue our research on RL for LLMs. See you in Redmond!
 
 **[Jun. 2025]** Check out our new work *DRO* on LLM reasoning for open-ended tasks available at [preprint](https://arxiv.org/abs/2506.13351)!
 
