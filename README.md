@@ -1,18 +1,18 @@
 ## About me
 
 
-I am currently a 4th-year Ph.D. candidate at the UCLA Computer Science Department. I have the privilege of working with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the members of the [WiNG](http://metro.cs.ucla.edu). My research broadly covers machine learning and systems, with a current focus on LLM post-training [[ICML 2025]](https://icml.cc/Conferences/2025)[[preprint]](https://arxiv.org/abs/2506.13351) and ML for systems [[MLSys 2024]](files/cloudeval-mlsys24.pdf)[[NeurIPS 2023 Workshop]](files/cloudeval-neurips23.pdf). I have a background in systems and algorithms including VR streaming [[ATC ’25]](https://www.usenix.org/conference/atc25), 5G systems [[SIGCOMM ’22]](files/seed-sigcomm22.pdf)[[NSDI ’21]](files/lrp-nsdi21.pdf)[[TMC]](files/ldrp-tmc.pdf), and data mining algorithms [[KDD ’20]](files/wavingsketch-kdd20.pdf)[[SIGCOMM ’22 Workshop]](files/pisketch-sigcomm22.pdf)[[SANER 2021]](files/multi-metric-saner21.pdf)[[TNSE]](files/ucs-tnse.pdf). Prior to UCLA, I received my B.S. in Computer Science from Peking University, where I also conducted research on sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
+I am currently a 4th-year Ph.D. candidate at the UCLA Computer Science Department. I have the privilege of working with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the members of the [WiNG](http://metro.cs.ucla.edu). My research broadly covers machine learning and systems, with a current focus on LLM post-training [[ICML 2025]](https://icml.cc/virtual/2025/poster/46173)[[preprint]](https://arxiv.org/abs/2506.13351) and ML for systems [[MLSys 2024]](files/cloudeval-mlsys24.pdf)[[NeurIPS 2023 Workshop]](files/cloudeval-neurips23.pdf). I have a background in systems and algorithms including VR streaming [[ATC ’25]](https://www.usenix.org/conference/atc25/presentation/xu), 5G systems [[SIGCOMM ’22]](files/seed-sigcomm22.pdf)[[NSDI ’21]](files/lrp-nsdi21.pdf)[[TMC]](files/ldrp-tmc.pdf), and data mining algorithms [[KDD ’20]](files/wavingsketch-kdd20.pdf)[[SIGCOMM ’22 Workshop]](files/pisketch-sigcomm22.pdf)[[SANER 2021]](files/multi-metric-saner21.pdf)[[TNSE]](files/ucs-tnse.pdf). Prior to UCLA, I received my B.S. in Computer Science from Peking University, where I also conducted research on sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
 
 
 ## What's New
 
-**[Jul. 2025]** I am returning to Microsoft as a Research Intern this summer. Excited to continue our research on RL for LLMs. See you in Redmond!
+**[Jul. 2025]** I am continuing as a Research Intern at Microsoft from this summer onward, expanding our research in LLM post-training. See you in Redmond!
 
 **[Jun. 2025]** Check out our new work *DRO* on LLM reasoning for open-ended tasks available at [preprint](https://arxiv.org/abs/2506.13351)!
 
-**[May 2025]** Our work *RLTHF* is accepted to [ICML 2025](https://icml.cc/Conferences/2025). See you in Vancouver!
+**[May 2025]** Our work *RLTHF* is accepted to [ICML 2025](https://icml.cc/virtual/2025/poster/46173). See you in Vancouver!
 
-**[Apr. 2025]** Our work *MP2* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25). See you in Boston!
+**[Apr. 2025]** Our work *MP2* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25/presentation/xu). See you in Boston!
 
 **[Feb. 2025]** Check out our new work *RLTHF* on LLM alignment available at [preprint](https://arxiv.org/abs/2502.13417)!
 
@@ -36,12 +36,12 @@ I am currently a 4th-year Ph.D. candidate at the UCLA Computer Science Departmen
 ---
 **RLTHF: Targeted Human Feedback for LLM Alignment** <br />
 ***Yifei Xu***, Tusher Chakraborty, Emre Kıcıman, Bibek Aryal, Eduardo Rodrigues, Srinagesh Sharma, Roberto Estevao, Maria Angels de Luis Balaguer, Jessica Wolk, Rafael Padilha, Leonardo Nunes, Shobana Balakrishnan, Songwu Lu, Ranveer Chandra <br />
-*ICML 2025* (To Appear) [[arXiv]](https://arxiv.org/abs/2502.13417)
+*ICML 2025* [[arXiv]](https://arxiv.org/abs/2502.13417)
 
 
 **Roaming Free in the VR World with MP2** <br />
 ***Yifei Xu***, Xumiao Zhang, Yuning Chen, Pan Hu, Xuan Zeng, Zhilong Zheng, Xianshang Lin, Yanmei Liu, Songwu Lu, Z. Morley Mao, Wan Du, Dennis Cai, Ennan Zhai, Yunfei Ma <br />
-*ATC ’25* (To Appear)
+*ATC ’25* [[paper]](https://www.usenix.org/conference/atc25/presentation/xu)
 
 
 **CloudEval-YAML: A Practical Benchmark for Cloud Configuration Generation** <br />
