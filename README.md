@@ -1,39 +1,63 @@
 ## About me
 
 
-I am currently a 4th-year Ph.D. candidate at the UCLA Computer Science Department. I have the privilege of working with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the members of the [WiNG](http://metro.cs.ucla.edu). My research broadly covers machine learning and systems, with a current focus on LLM post-training [[ICML 2025]](https://icml.cc/virtual/2025/poster/46173)[[preprint]](https://arxiv.org/abs/2506.13351) and ML for systems [[MLSys 2024]](files/cloudeval-mlsys24.pdf)[[NeurIPS 2023 Workshop]](files/cloudeval-neurips23.pdf). I have a background in systems and algorithms including VR streaming [[ATC ’25]](https://www.usenix.org/conference/atc25/presentation/xu), 5G systems [[SIGCOMM ’22]](files/seed-sigcomm22.pdf)[[NSDI ’21]](files/lrp-nsdi21.pdf)[[TMC]](files/ldrp-tmc.pdf), and data mining algorithms [[KDD ’20]](files/wavingsketch-kdd20.pdf)[[SIGCOMM ’22 Workshop]](files/pisketch-sigcomm22.pdf)[[SANER 2021]](files/multi-metric-saner21.pdf)[[TNSE]](files/ucs-tnse.pdf). Prior to UCLA, I received my B.S. in Computer Science from Peking University, where I also conducted research on sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
+I am currently a final-year Ph.D. candidate at the UCLA Computer Science Department. I have the privilege of working with [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/) and the members of the [WiNG](http://metro.cs.ucla.edu). My research broadly covers machine learning and systems, with a current focus on LLM post-training [[SibylSense]](https://arxiv.org/abs/2602.20751)[[DRO]](https://arxiv.org/abs/2506.13351)[[RLTHF]](https://icml.cc/virtual/2025/poster/46173) and ML for systems [[DeepSpecs]](https://arxiv.org/abs/2511.01305)[[CloudEval-YAML]](files/cloudeval-mlsys24.pdf). I have a background in LLM inference systems [[preprint]](https://arxiv.org/abs/2507.09003), network systems [[NSDI ’26]](https://www.usenix.org/conference/nsdi26/presentation/zhou-minyuan)[[ATC ’25]](https://www.usenix.org/conference/atc25/presentation/xu)[[SIGCOMM ’22]](files/seed-sigcomm22.pdf)[[NSDI ’21]](files/lrp-nsdi21.pdf)[[TMC]](files/ldrp-tmc.pdf), and data mining algorithms [[KDD ’20]](files/wavingsketch-kdd20.pdf)[[SIGCOMM ’22 Workshop]](files/pisketch-sigcomm22.pdf)[[SANER 2021]](files/multi-metric-saner21.pdf)[[TNSE]](files/ucs-tnse.pdf). Prior to UCLA, I received my B.S. in Computer Science from Peking University, where I studied sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
 
 
 ## What's New
 
-**[Jul. 2025]** I am continuing as a Research Intern at Microsoft from this summer onward, expanding our research in LLM post-training. See you in Redmond!
+**[Feb. 2026]** Check out our new work *[SibylSense](https://arxiv.org/abs/2602.20751)* on adaptive rubric learning! <br />
+**[Jan. 2026]** Check out our new version of *[DRO](https://arxiv.org/abs/2506.13351)* on reasoning for open-ended tasks! <br />
+**[Dec. 2025]** Our work *AnyPro* on anycast optimization is accepted to [NSDI ’26](https://www.usenix.org/conference/nsdi26/presentation/zhou-minyuan). Congrats to the team, and see you in Renton! <br />
+**[Nov. 2025]** Check out our new work *[DeepSpecs](https://arxiv.org/abs/2511.01305)* on telecom QA! <br />
+**[Jul. 2025]** Check out our new work *[ECO-LLM](https://arxiv.org/abs/2507.09003)* on edge-cloud LLM orchestration! <br />
+**[Jul. 2025]** Excited to continue with Microsoft [Copilot Tuning Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a Researcher, starting this summer and through my PhD final year, advancing our research on LLM post-training. See you in Redmond! <br />
+**[May 2025]** Our work *RLTHF* is accepted to [ICML 2025](https://icml.cc/virtual/2025/poster/46173). See you in Vancouver! <br />
 
-**[Jun. 2025]** Check out our new work *DRO* on LLM reasoning for open-ended tasks available at [preprint](https://arxiv.org/abs/2506.13351)!
+<!-- **[Jun. 2025]** Check out our new work *DRO* on LLM reasoning for open-ended tasks available at [preprint](https://arxiv.org/abs/2506.13351)! -->
 
-**[May 2025]** Our work *RLTHF* is accepted to [ICML 2025](https://icml.cc/virtual/2025/poster/46173). See you in Vancouver!
+<!-- **[Apr. 2025]** Our work *MP2* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25/presentation/xu). See you in Boston! -->
 
-**[Apr. 2025]** Our work *MP2* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25/presentation/xu). See you in Boston!
+<!-- **[Feb. 2025]** Check out our new work *RLTHF* on LLM alignment available at [preprint](https://arxiv.org/abs/2502.13417)! -->
 
-**[Feb. 2025]** Check out our new work *RLTHF* on LLM alignment available at [preprint](https://arxiv.org/abs/2502.13417)!
+<!-- **[Feb. 2024]** Our work *CloudEval-YAML* is accepted to [MLSys 2024](https://mlsys.org/Conferences/2024). See you in Santa Clara! -->
 
-**[Feb. 2024]** Our work *CloudEval-YAML* is accepted to [MLSys 2024](https://mlsys.org/Conferences/2024). See you in Santa Clara!
+<!-- **[Jan. 2024]** I will be joining [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-for-industry/) as a Research Intern in Summer 2024. See you in Redmond! -->
 
-**[Jan. 2024]** I will be joining [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-for-industry/) as a Research Intern in Summer 2024. See you in Redmond!
-
-**[Nov. 2023]** Our preliminary work on *CloudEval-YAML* is accepted to [NeurIPS 2023 Workshop on ML for Systems](http://mlforsystems.org/neurips2023/). Check out the code [here](https://github.com/alibaba/CloudEval-YAML). See you in New Orleans!
+<!-- **[Nov. 2023]** Our preliminary work on *CloudEval-YAML* is accepted to [NeurIPS 2023 Workshop on ML for Systems](http://mlforsystems.org/neurips2023/). Check out the code [here](https://github.com/alibaba/CloudEval-YAML). See you in New Orleans! -->
 
 
 ## Publications
 
 ### Preprints
 ---
-**Direct Reasoning Optimization: LLMs Can Reward and Refine Their Own Reasoning for Open-Ended Tasks** <br />
-***Yifei Xu\****, Tusher Chakraborty\*, Srinagesh Sharma, Leonardo Nunes, Emre Kıcıman, Songwu Lu, Ranveer Chandra <br />
+**SibylSense: Adaptive Rubric Learning via Memory Tuning and Adversarial Probing** <br />
+***Yifei Xu***, Guilherme Potje, Shivam Shandilya, Tiancheng Yuan, Leonardo de Oliveira Nunes, Rakshanda Agarwal, Saeid Asgari, Adam Atkinson, Emre Kıcıman, Songwu Lu, Ranveer Chandra, Tusher Chakraborty <br />
+[[arXiv]](https://arxiv.org/abs/2602.20751)
+
+
+**DeepSpecs: Expert-Level Question Answering in 5G** <br />
+Aman Ganapathy Manvattira\*, ***Yifei Xu\****, Ziyue Dang, Songwu Lu <br />
+[[arXiv]](https://arxiv.org/abs/2511.01305)
+
+
+**Direct Reasoning Optimization: Constrained RL with Token-Level Dense Reward and Rubric-Gated Constraints for Open-ended Tasks** <br />
+***Yifei Xu\****, Tusher Chakraborty\*, Srinagesh Sharma, Leonardo Nunes, Swati Sharma, Kate Drakos Demopulos, Emre Kıcıman, Songwu Lu, Ranveer Chandra <br />
 [[arXiv]](https://arxiv.org/abs/2506.13351)
+
+
+**Orchestration for Domain-specific Edge-Cloud Language Models** <br />
+Prasoon Patidar, Alex Crown, Kevin Hsieh, ***Yifei Xu***, Tusher Chakraborty, Ranveer Chandra, Yuvraj Agarwal <br />
+[[arXiv]](https://arxiv.org/abs/2507.09003)
 
 
 ### Conference Papers
 ---
+**AnyPro: Preference-Preserving Anycast Optimization based on Strategic AS-Path Prepending** <br />
+Minyuan Zhou\*, Yuning Chen\*, Jiaqi Zheng, ***Yifei Xu***, Guihai Chen, Wanchun Dou, Pan Hu, Yongping Tang, Wendong Yin, Jie Lin, Qingyan Yu, Yuanchao Su, Songwu Lu, Wan Du <br />
+*NSDI ’26* [[paper]](https://www.usenix.org/conference/nsdi26/presentation/zhou-minyuan)
+
+
 **RLTHF: Targeted Human Feedback for LLM Alignment** <br />
 ***Yifei Xu***, Tusher Chakraborty, Emre Kıcıman, Bibek Aryal, Eduardo Rodrigues, Srinagesh Sharma, Roberto Estevao, Maria Angels de Luis Balaguer, Jessica Wolk, Rafael Padilha, Leonardo Nunes, Shobana Balakrishnan, Songwu Lu, Ranveer Chandra <br />
 *ICML 2025* [[arXiv]](https://arxiv.org/abs/2502.13417)
