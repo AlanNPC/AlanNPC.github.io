@@ -6,13 +6,15 @@ I am currently a final-year Ph.D. candidate at the UCLA Computer Science Departm
 
 ## What's New
 
+**[Apr. 2026]** *[DeepSpecs](https://arxiv.org/abs/2602.20751)* is accepted to Findings of [ACL 2026](https://2026.aclweb.org). Congrats to the team, and see you in San Diego! <br />
+**[Mar. 2026]** I have successfully defended my PhD dissertation! <br />
 **[Feb. 2026]** Check out our new work *[SibylSense](https://arxiv.org/abs/2602.20751)* on adaptive rubric learning! <br />
-**[Jan. 2026]** Check out our new version of *[DRO](https://arxiv.org/abs/2506.13351)* on reasoning for open-ended tasks! <br />
-**[Dec. 2025]** Our work *AnyPro* on anycast optimization is accepted to [NSDI ’26](https://www.usenix.org/conference/nsdi26/presentation/zhou-minyuan). Congrats to the team, and see you in Renton! <br />
+**[Dec. 2025]** *[AnyPro](https://arxiv.org/abs/2603.21082)* is accepted to [NSDI ’26](https://www.usenix.org/conference/nsdi26/presentation/zhou-minyuan). Congrats to the team, and see you in Renton! <br />
+**[Nov. 2025]** *[LocalBench](https://arxiv.org/pdf/2511.10459)* is accepted to [AAAI-26](https://aaai.org/conference/aaai/aaai-26/). Congrats to the team, and see you in Singapore! <br />
 **[Nov. 2025]** Check out our new work *[DeepSpecs](https://arxiv.org/abs/2511.01305)* on telecom QA! <br />
 **[Jul. 2025]** Check out our new work *[ECO-LLM](https://arxiv.org/abs/2507.09003)* on edge-cloud LLM orchestration! <br />
 **[Jul. 2025]** Excited to continue with Microsoft [Copilot Tuning Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a Researcher, starting this summer and through my PhD final year, advancing our research on LLM post-training. See you in Redmond! <br />
-**[May 2025]** Our work *RLTHF* is accepted to [ICML 2025](https://icml.cc/virtual/2025/poster/46173). See you in Vancouver! <br />
+**[May 2025]** *RLTHF* is accepted to [ICML 2025](https://icml.cc/virtual/2025/poster/46173). See you in Vancouver! <br />
 
 <!-- **[Jun. 2025]** Check out our new work *DRO* on LLM reasoning for open-ended tasks available at [preprint](https://arxiv.org/abs/2506.13351)! -->
 
@@ -36,11 +38,6 @@ I am currently a final-year Ph.D. candidate at the UCLA Computer Science Departm
 [[arXiv]](https://arxiv.org/abs/2602.20751)
 
 
-**DeepSpecs: Expert-Level Question Answering in 5G** <br />
-Aman Ganapathy Manvattira\*, ***Yifei Xu\****, Ziyue Dang, Songwu Lu <br />
-[[arXiv]](https://arxiv.org/abs/2511.01305)
-
-
 **Direct Reasoning Optimization: Constrained RL with Token-Level Dense Reward and Rubric-Gated Constraints for Open-ended Tasks** <br />
 ***Yifei Xu\****, Tusher Chakraborty\*, Srinagesh Sharma, Leonardo Nunes, Swati Sharma, Kate Drakos Demopulos, Emre Kıcıman, Songwu Lu, Ranveer Chandra <br />
 [[arXiv]](https://arxiv.org/abs/2506.13351)
@@ -53,9 +50,19 @@ Prasoon Patidar, Alex Crown, Kevin Hsieh, ***Yifei Xu***, Tusher Chakraborty, Ra
 
 ### Conference Papers
 ---
+**DeepSpecs: Expert-Level Question Answering in 5G** <br />
+Aman Ganapathy Manvattira\*, ***Yifei Xu\****, Ziyue Dang, Songwu Lu <br />
+*ACL 2026 Findings* [[arXiv]](https://arxiv.org/abs/2511.01305)
+
+
 **AnyPro: Preference-Preserving Anycast Optimization based on Strategic AS-Path Prepending** <br />
 Minyuan Zhou\*, Yuning Chen\*, Jiaqi Zheng, ***Yifei Xu***, Guihai Chen, Wanchun Dou, Pan Hu, Yongping Tang, Wendong Yin, Jie Lin, Qingyan Yu, Yuanchao Su, Songwu Lu, Wan Du <br />
-*NSDI ’26* [[paper]](https://www.usenix.org/conference/nsdi26/presentation/zhou-minyuan)
+*NSDI ’26* [[arXiv]](https://arxiv.org/abs/2603.21082)
+
+
+**LocalBench: Benchmarking LLMs on County-Level Local Knowledge and Reasoning** <br />
+Zihan Gao, ***Yifei Xu***, Jacob Thebault-Spieker <br />
+*AAAI-26* [[arXiv]](https://arxiv.org/pdf/2511.10459)
 
 
 **RLTHF: Targeted Human Feedback for LLM Alignment** <br />
@@ -108,6 +115,11 @@ Zhaowei Tan, Jinghao Zhao, Yuanjie Li, ***Yifei Xu***, Yunqi Guo, Songwu Lu <br 
 
 ### Workshops, Posters, and Demos
 ---
+**From Clips to Communities: Fusing Social Video into Knowledge Graphs for Localness-Aware LLMs** <br />
+Zihan Gao, Jiaying "Lizzy" Liu, ***Yifei Xu***, Jacob Thebault-Spieker <br />
+*ACM CSCW 2025 Companion* [[paper]](https://dl.acm.org/doi/full/10.1145/3715070.3749277)
+
+
 **CloudEval-YAML: A Realistic and Scalable Benchmark for Cloud Configuration Generation** <br />
 ***Yifei Xu\****, Yuning Chen\*, Xumiao Zhang\*, Xianshang Lin, Pan Hu, Yunfei Ma, Songwu Lu, Wan Du, Z. Morley Mao, Ennan Zhai, Dennis
 Cai <br />
