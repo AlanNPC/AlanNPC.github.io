@@ -14,19 +14,20 @@ I am currently a final-year Ph.D. candidate at the UCLA Computer Science Departm
 **[Nov. 2025]** Check out our new work *[DeepSpecs](https://arxiv.org/abs/2511.01305)* on telecom QA! <br />
 **[Jul. 2025]** Check out our new work *[ECO-LLM](https://arxiv.org/abs/2507.09003)* on edge-cloud LLM orchestration! <br />
 **[Jul. 2025]** Excited to continue with Microsoft [Copilot Tuning Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/) as a Researcher, starting this summer and through my PhD final year, advancing our research on LLM post-training. See you in Redmond! <br />
+
+<details>
+  <summary><strong>Older news</strong></summary>
+  <br />
+
+**[Jun. 2025]** Check out our new work *DRO* on LLM reasoning for open-ended tasks available at [preprint](https://arxiv.org/abs/2506.13351)! <br />
 **[May 2025]** *RLTHF* is accepted to [ICML 2025](https://icml.cc/virtual/2025/poster/46173). See you in Vancouver! <br />
+**[Apr. 2025]** *MP2* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25/presentation/xu). See you in Boston! <br />
+**[Feb. 2025]** Check out our new work *RLTHF* on LLM alignment available at [preprint](https://arxiv.org/abs/2502.13417)! <br />
+**[Feb. 2024]** *CloudEval-YAML* is accepted to [MLSys 2024](https://mlsys.org/Conferences/2024). See you in Santa Clara! <br />
+**[Jan. 2024]** I will be joining [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-for-industry/) as a Research Intern in Summer 2024. See you in Redmond! <br />
+**[Nov. 2023]** Our preliminary work on *CloudEval-YAML* is accepted to [NeurIPS 2023 Workshop on ML for Systems](http://mlforsystems.org/neurips2023/). Check out the code [here](https://github.com/alibaba/CloudEval-YAML). See you in New Orleans! <br />
 
-<!-- **[Jun. 2025]** Check out our new work *DRO* on LLM reasoning for open-ended tasks available at [preprint](https://arxiv.org/abs/2506.13351)! -->
-
-<!-- **[Apr. 2025]** Our work *MP2* is accepted to [ATC ’25](https://www.usenix.org/conference/atc25/presentation/xu). See you in Boston! -->
-
-<!-- **[Feb. 2025]** Check out our new work *RLTHF* on LLM alignment available at [preprint](https://arxiv.org/abs/2502.13417)! -->
-
-<!-- **[Feb. 2024]** Our work *CloudEval-YAML* is accepted to [MLSys 2024](https://mlsys.org/Conferences/2024). See you in Santa Clara! -->
-
-<!-- **[Jan. 2024]** I will be joining [Microsoft Research](https://www.microsoft.com/en-us/research/group/research-for-industry/) as a Research Intern in Summer 2024. See you in Redmond! -->
-
-<!-- **[Nov. 2023]** Our preliminary work on *CloudEval-YAML* is accepted to [NeurIPS 2023 Workshop on ML for Systems](http://mlforsystems.org/neurips2023/). Check out the code [here](https://github.com/alibaba/CloudEval-YAML). See you in New Orleans! -->
+</details>
 
 
 ## Publications
