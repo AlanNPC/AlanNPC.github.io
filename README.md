@@ -1,7 +1,7 @@
 ## About me
 
 
-I am a researcher at Microsoft [Copilot Tuning Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/). My recent research focuses on RL and memory management for agents [[SibylSense]](https://arxiv.org/abs/2602.20751)[[DRO]](https://arxiv.org/abs/2506.13351)[[RLTHF]](https://icml.cc/virtual/2025/poster/46173).
+I am a researcher at Microsoft [Frontier Tuning Research](https://www.microsoft.com/en-us/research/group/copilot-tuning-research/). My recent research focuses on RL and memory management for agents [[SibylSense]](https://arxiv.org/abs/2602.20751)[[DRO]](https://arxiv.org/abs/2506.13351)[[RLTHF]](https://icml.cc/virtual/2025/poster/46173).
 
 I recently received my Ph.D. from UCLA, where I was advised by [Prof. Songwu Lu](http://web.cs.ucla.edu/~slu/). My broader research background spans ML for systems [[DeepSpecs]](https://arxiv.org/abs/2511.01305)[[CloudEval-YAML]](files/cloudeval-mlsys24.pdf), LLM inference systems [[preprint]](https://arxiv.org/abs/2507.09003), network systems [[NSDI ’26]](https://www.usenix.org/conference/nsdi26/presentation/zhou-minyuan)[[ATC ’25]](https://www.usenix.org/conference/atc25/presentation/xu)[[SIGCOMM ’22]](files/seed-sigcomm22.pdf)[[NSDI ’21]](files/lrp-nsdi21.pdf)[[TMC]](files/ldrp-tmc.pdf), and data mining algorithms [[KDD ’20]](files/wavingsketch-kdd20.pdf)[[SIGCOMM ’22 Workshop]](files/pisketch-sigcomm22.pdf)[[SANER 2021]](files/multi-metric-saner21.pdf)[[TNSE]](files/ucs-tnse.pdf). Prior to UCLA, I received my B.S. in Computer Science from Peking University, where I where I worked on sketch-based algorithms under the supervision of [Prof. Tong Yang](http://net.pku.edu.cn/~yangtong/).
 
